@@ -1,5 +1,5 @@
 ## CURRICULUM
-# Thiago Elias Santos
+# Thiago E. Santos
 
 <br>
 
@@ -12,9 +12,9 @@
 ## HABILIDADES
 - Idiomas: Inglês fluente;
 - Ferramentas de edição: CorelDraw, Photoshop, Sony Vegas; 
-- Linguagens já utilizadas: Batch, C/C++, CSS, HTML, Java, JavaScript, JSON, PHP, PowerShell, Python, Ruby, Shell, SQL, UML, VBScript, XML;
-- Sistemas Operacionais utilizados em serviço: Windows (todos desde 95); Windows Server 2003, 2008, 2012, 2016, 2019; Unix CentOS, Debian, Kali, Mint, OpenSuse, RedHat, Solaris e Ubuntu;
-- Técnicas: Montagem, instalação e configuração de computadores; Administração de redes e infraestrutura; Desenvolvimento de programas e scripts.
+- Linguagens já utilizadas: Batch, C/C++, CSS, HTML, Java, JavaScript, JSON, PHP, PowerShell, Python, Ruby, Shell, SQL, TypeScript, UML, VBScript, XML;
+- Sistemas Operacionais utilizados em serviço: Windows: (todos desde 95); Windows Server: 2003, 2008, 2012, 2016, 2019; Unix: CentOS, Debian, Kali, Mint, OpenSuse, RedHat, Solaris e Ubuntu;
+- Técnicas: Montagem, instalação e configuração de computadores; Administração de redes e infraestrutura; Desenvolvimento de sistemas e scripts.
 
 <br>
 
@@ -84,12 +84,17 @@
 ## EXPERIÊNCIA PROFISSIONAL
 ### Tribunal Superior Eleitoral (TSE)  
 `SAFS Quadra 7, Brasília-DF - Desde 10/2015`
-> Aquisições e fiscalização técnica de contratos da Seção de Suporte a Aplicações (SESAP); Gerência de máquinas virtuais Windows Server (VMWare). Administração de Servidores Active Directory, Antivírus, DHCP, DNS, Exchange, File Server, FTP, WSUS; Servidores de aplicação JBoss e TomCat; Servidores web Apache e IIS; Servidores de auditoria Varonis; Servidores de arquivamento Enterprise Vault; Servidores de APM Dynatrace AppMon. Controle de certificados digitais; Desenvolvimento Java do ‘RootEAP’, aplicação informativa e inventariante de instâncias com banco H2, presente em todos os servidores JBoss gerenciados pelo TSE, incluindo instâncias nos 27 TREs, e uso interno de alguns TREs; Participação em projeto PHP/PostgreSQL de gerência de instâncias em associação com o RootEAP; Desenvolvimento do sistema para substituição do sistema legado de controle de ar-condicionado do TSE; Desenvolvimento de sistema para controle de certificados digitais e seus contratos e empresas; Desenvolvimento de scripts facilitadores de serviço. Substituição eventual da chefia; Desenvolvedor Java/SpringBoot/Angular na Seção de Integração de Sistemas Eleitorais (SEINT).
+> Servidor da Seção de Suporte a Aplicações (SESAP) da Coordenadoria de Infraestrutura de TI (COINF):
+> Aquisições e fiscalização técnica de contratos; Gerência de máquinas virtuais Windows Server (VMWare). Administração de Servidores Active Directory, Antivírus, DHCP, DNS, Exchange, File Server, FTP, WSUS; Servidores de aplicação JBoss e TomCat; Servidores web Apache e IIS; Servidores de auditoria Varonis; Servidores de arquivamento Enterprise Vault; Servidores de APM Dynatrace AppMon. Controle de certificados digitais; Desenvolvimento Java do ‘RootEAP’, aplicação informativa e inventariante de instâncias com banco H2, presente em todos os servidores JBoss gerenciados pelo TSE, incluindo instâncias nos 27 TREs, e uso interno de alguns TREs; Participação em projeto PHP/PostgreSQL de gerência de instâncias em associação com o RootEAP; Desenvolvimento do sistema para substituição do sistema legado de controle de ar-condicionado do TSE; Desenvolvimento de sistema para controle de certificados digitais, seus contratos e empresas; Desenvolvimento de scripts facilitadores de serviço; Substituição eventual da chefia; Repasse de conhecimento para novos servidores.  
+
+> Servidor da Seção de Integração, Garantia e Controle de Qualidade de Soluções (SEINT) da Coordenadoria de Sistemas Eleitorais (CSELE):
+> Desenvolvedor Java/SpringBoot/Angular; Refatoração de códigos para adequação às recomendações de segurança globais e/ou do SonarQube; Upgrade de versão de frameworks.
 
 <br>
 
 ### Tribunal Regional do Trabalho da 10ª Região (TRT10)  
 `SAS Quadra 1, Brasília-DF - 07/2014 a 10/2015`
+> Servidor da Coordenadoria de Tecnologia (CDTEC):
 > Administração de servidores e demais ativos de rede e infraestrutura do parque tecnológico das dez localidades que compõem a 10ª região. Desenvolvimento de programas e scripts para automatizar serviços críticos. Planejamento, propostas de aquisição, implantação e teste de equipamentos e programas de infraestrutura. Supervisão e fiscalização técnica das contratações de soluções e da equipe terceirizada.
 
 <br>
