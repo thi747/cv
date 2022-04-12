@@ -1,9 +1,13 @@
 ## CURRICULUM
 # Thiago Elias Santos
 
+<br>
+
 ## ESCOLARIDADE
 - Especialização em Gestão de TI na Administração Pública - IMP de Ensino Superior - 2013-2014;
 - Bacharelado em Sistemas de Informação - Faculdades Integradas da UPIS - 2007-2010.
+
+<br>
 
 ## HABILIDADES
 - Idiomas: Inglês fluente;
@@ -11,6 +15,8 @@
 - Linguagens já utilizadas: Batch, C/C++, CSS, HTML, Java, JavaScript, JSON, PHP, PowerShell, Python, Ruby, Shell, SQL, UML, VBScript, XML;
 - Sistemas Operacionais utilizados em serviço: Windows (todos desde 95); Windows Server 2003, 2008, 2012, 2016, 2019; Unix CentOS, Debian, Kali, Mint, OpenSuse, RedHat, Solaris e Ubuntu;
 - Técnicas: Montagem, instalação e configuração de computadores; Administração de redes e infraestrutura; Desenvolvimento de programas e scripts.
+
+<br>
 
 ## CURSOS E TREINAMENTOS
 - Repasse Tecnológico - Tenable / `Servix - 20h - 2021`;
@@ -73,40 +79,60 @@
 - Java Básico / `DFJUG - 36h - 2008`;
 - Inglês Avançado / `Brasília Instituto de Idiomas Ltda. - 208h - 2004`.
 
+<br>
+
 ## EXPERIÊNCIA PROFISSIONAL
 ### Tribunal Superior Eleitoral (TSE)  
 `SAFS Quadra 7, Brasília-DF - Desde 10/2015`
 > Aquisições e fiscalização técnica de contratos da Seção de Suporte a Aplicações (SESAP); Gerência de máquinas virtuais Windows Server (VMWare). Administração de Servidores Active Directory, Antivírus, DHCP, DNS, Exchange, File Server, FTP, WSUS; Servidores de aplicação JBoss e TomCat; Servidores web Apache e IIS; Servidores de auditoria Varonis; Servidores de arquivamento Enterprise Vault; Servidores de APM Dynatrace AppMon. Controle de certificados digitais; Desenvolvimento Java do ‘RootEAP’, aplicação informativa e inventariante de instâncias com banco H2, presente em todos os servidores JBoss gerenciados pelo TSE, incluindo instâncias nos 27 TREs, e uso interno de alguns TREs; Participação em projeto PHP/PostgreSQL de gerência de instâncias em associação com o RootEAP; Desenvolvimento do sistema para substituição do sistema legado de controle de ar-condicionado do TSE; Desenvolvimento de sistema para controle de certificados digitais e seus contratos e empresas; Desenvolvimento de scripts facilitadores de serviço. Substituição eventual da chefia; Desenvolvedor Java/SpringBoot/Angular na Seção de Integração de Sistemas Eleitorais (SEINT).
-  
+
+<br>
+
 ### Tribunal Regional do Trabalho da 10ª Região (TRT10)  
 `SAS Quadra 1, Brasília-DF - 07/2014 a 10/2015`
 > Administração de servidores e demais ativos de rede e infraestrutura do parque tecnológico das dez localidades que compõem a 10ª região. Desenvolvimento de programas e scripts para automatizar serviços críticos. Planejamento, propostas de aquisição, implantação e teste de equipamentos e programas de infraestrutura. Supervisão e fiscalização técnica das contratações de soluções e da equipe terceirizada.
-  
+
+<br>
+
 ### Serviço Federal de Processamento de Dados (SERPRO)  
 `SGAN 601, Brasília-DF - 10/2010 a 07/2014`
 > Suporte ao usuário, administração da rede da Secretaria do Tesouro Nacional e de servidores Active Directory, IAS/NPS, DHCP, DNS, Impressão, Backup, WSUS, Auditoria e Exchange. Desenvolvimento de programas e scripts distribuídos em rede para automatizar serviços em massa. Criação e atualização de imagens de sistema e scripts para a sua instalação.
-  
+
+<br>
+
 ### Thomson Reuters  
 `SRTVS Centro Empresarial Brasília, Brasília-DF - 09/2008 a 05/2010`
 > Suporte para infraestrutura de software proprietário nos clientes Banco Central, Banco do Brasil e Secretaria do Tesouro Nacional; serviços administrativos e de logística.
-  
+
+<br>
+
 ### Informe Comunicação e Marketing  
 `SRTVN Brasília Shopping, Brasília-DF - 06/2008 a 08/2008`
 > Montagem e envio de matérias via web, manutenção, suporte, rede e implementações.
-  
+
+<br>
+
 ### Fundação Alexandre de Gusmão (FUNAG)  
 `Palácio do Itamaraty Anexo II, Brasília-DF - 09/2007 a 03/2008`
 > Suporte ao usuário, controle de equipamentos e de rede.
-  
+
+<br>
+
 ### Águas Claras Informática (ACI)  
 `Brasília-DF - 01/2007 - 08/2007`
 > Comércio; Assistência técnica, manutenção e redes de computadores.
-  
+
+<br>
+
 ### Tecnsystem  
 `Brasília-DF - 10/2006 a 12/2006`
 > Assistência técnica em informática, manutenção, redes e vendas.
-  
+
+<br>
+
 ### R&A Informática  
 `Brasília-DF - 04/2005 a 11/2005`
 > Suporte técnico e assistência em informática e manutenção de computadores.
-  
+
+<br>
+
