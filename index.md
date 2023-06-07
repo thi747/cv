@@ -19,9 +19,10 @@
 <br>
 
 ## CURSOS E TREINAMENTOS
-- Formação UX Design / `Alura - 80h - 2023`
-- Formação Angular / `Alura - 88h - 2023`
+- Formação UX Design / `Alura - 80h - 2023`;
+- Formação Angular / `Alura - 88h - 2023`;
 - Fullstack Java and Angular / `Academia Capgemini - 117h - 2023`;
+- CEHV11 - Certified Ethical Hacker - Security Implementation / `Training - 40h - 2021`;
 - Repasse Tecnológico - Tenable / `Servix - 20h - 2021`;
 - React Parte 1: Componentes Reutilizáveis Para Sua Webapp / `Alura - 10h - 2020`;
 - Formação Raspberry Pi e Internet das Coisas / `Alura - 50h - 2020`;
