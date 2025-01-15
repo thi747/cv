@@ -4,6 +4,7 @@
 <br>
 
 ## ESCOLARIDADE
+- Especialização em Inteligência Artificial e Machine Learning - Faculdade Anhanguera - 2025-em curso;
 - Especialização em Gestão de TI na Administração Pública - IMP de Ensino Superior - 2013-2014;
 - Bacharelado em Sistemas de Informação - Faculdades Integradas da UPIS - 2007-2010.
 
@@ -19,6 +20,9 @@
 <br>
 
 ## CURSOS E TREINAMENTOS
+- AI Skills / `StartSe - - - 2025 `;
+- IA para Todos / `Movimento IA Brasil - 3h - 2024 `;
+- IA Generatica com Microsoft Copilot / `CAIXA - 39h - 2025`;
 - Formação UX Design / `Alura - 80h - 2023`;
 - Formação Angular / `Alura - 88h - 2023`;
 - Fullstack Java and Angular / `Academia Capgemini - 117h - 2023`;
