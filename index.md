@@ -4,9 +4,9 @@
 <br>
 
 ## ESCOLARIDADE
-- Especialização em Inteligência Artificial e Machine Learning - Faculdade Anhanguera - `cursando`
-- Especialização em Gestão de TI na Administração Pública - IMP de Ensino Superior - `2013-2014`
-- Bacharelado em Sistemas de Informação - Faculdades Integradas da UPIS - `2007-2010`
+- Especialização em Inteligência Artificial e Machine Learning / `Faculdade Anhanguera - 360h - cursando`
+- Especialização em Gestão de TI na Administração Pública / `IMP de Ensino Superior - 500h - 2013-2014`
+- Bacharelado em Sistemas de Informação / `Faculdades Integradas da UPIS - 2007-2010`
 
 <br>
 
@@ -77,14 +77,14 @@
 ## EXPERIÊNCIA PROFISSIONAL
 ### Tribunal Superior Eleitoral (TSE)  
 `SAFS 7 LTs 1/2, Asa Sul, Brasília-DF - Desde 10/2015`
-> **Servidor da Seção de Integração, Garantia e Controle de Qualidade de Soluções (SEINT) da Coordenadoria de Sistemas Eleitorais (CSELE):**  
+> **Seção de Integração, Garantia e Controle de Qualidade de Soluções (SEINT) da Coordenadoria de Sistemas Eleitorais (CSELE):**  
 > - Desenvolvedor Java/SpringBoot/Angular
 > - Refatoração de códigos para adequação às recomendações de segurança globais e/ou do SonarQube
 > - Upgrade de versão de frameworks; Melhorias dos sistemas e formas de trabalho em favor à infraestrutura
 > - Conversão de códigos-fonte entre linguagens
 > - Operações em banco de dados
 
-> **Servidor da Seção de Suporte a Aplicações (SESAP) da Coordenadoria de Infraestrutura de TI (COINF):**  
+> **Seção de Suporte a Aplicações (SESAP) da Coordenadoria de Infraestrutura de TI (COINF):**  
 > - Aquisições e fiscalização técnica de contratos
 > - Gerência de máquinas virtuais Windows Server (VMWare)
 > - Administração de Servidores Active Directory, Antivírus, DHCP, DNS, Exchange, File Server, FTP, WSUS
