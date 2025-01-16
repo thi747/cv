@@ -3,7 +3,7 @@
 
 <br>
 
-## ESCOLARIDADE
+## FORMAÇÃO
 - Especialização em Inteligência Artificial e Machine Learning / `Faculdade Anhanguera - 360h - cursando`
 - Especialização em Gestão de TI na Administração Pública / `IMP de Ensino Superior - 500h - 2013-2014`
 - Bacharelado em Sistemas de Informação / `Faculdades Integradas da UPIS - 2007-2010`
@@ -11,7 +11,7 @@
 <br>
 
 ## HABILIDADES
-- **Idiomas:** Inglês fluente
+- **Idiomas:** Inglês `fluente`
 - **Ferramentas de edição:** CorelDraw, Photoshop, Sony Vegas
 - **Linguagens utilizadas:** Batch, C/C++, CSS, HTML, Java, JavaScript, JSON, PHP, PowerShell, Python, Ruby, Shell, SQL, TypeScript, UML, VBScript, XML
 - **Sistemas Operacionais:**
@@ -77,14 +77,14 @@
 ## EXPERIÊNCIA PROFISSIONAL
 ### Tribunal Superior Eleitoral (TSE)  
 `SAFS 7 LTs 1/2, Asa Sul, Brasília-DF - Desde 10/2015`
-> **Seção de Integração, Garantia e Controle de Qualidade de Soluções (SEINT) da Coordenadoria de Sistemas Eleitorais (CSELE):**  
+##### **Seção de Integração, Garantia e Controle de Qualidade de Soluções (SEINT) da Coordenadoria de Sistemas Eleitorais (CSELE):**  
 > - Desenvolvedor Java/SpringBoot/Angular
 > - Refatoração de códigos para adequação às recomendações de segurança globais e/ou do SonarQube
 > - Upgrade de versão de frameworks; Melhorias dos sistemas e formas de trabalho em favor à infraestrutura
 > - Conversão de códigos-fonte entre linguagens
 > - Operações em banco de dados
 
-> **Seção de Suporte a Aplicações (SESAP) da Coordenadoria de Infraestrutura de TI (COINF):**  
+##### **Seção de Suporte a Aplicações (SESAP) da Coordenadoria de Infraestrutura de TI (COINF):**  
 > - Aquisições e fiscalização técnica de contratos
 > - Gerência de máquinas virtuais Windows Server (VMWare)
 > - Administração de Servidores Active Directory, Antivírus, DHCP, DNS, Exchange, File Server, FTP, WSUS
@@ -105,7 +105,7 @@
 
 ### Tribunal Regional do Trabalho da 10ª Região (TRT10)  
 `SAS 1 BL D, Asa Sul, Brasília-DF - 07/2014 a 10/2015`
-> **Coordenadoria de Tecnologia (CDTEC):**  
+##### **Coordenadoria de Tecnologia (CDTEC):**  
 > - Administração de servidores e demais ativos de rede e infraestrutura do parque tecnológico das dez localidades que compõem a 10ª região
 > - Desenvolvimento de programas e scripts para automatizar serviços críticos
 > - Planejamento, propostas de aquisição, implantação e teste de equipamentos e programas de infraestrutura
@@ -115,7 +115,7 @@
 
 ### Serviço Federal de Processamento de Dados (SERPRO)  
 `SGAN 601 Módulo G, Asa Norte, Brasília-DF - 10/2010 a 07/2014`
-> **Superintendência de Produtos e Serviços - Operações - (SUPOP):**  
+##### **Superintendência de Produtos e Serviços - Operações - (SUPOP):**  
 > - Suporte ao usuário
 > - Administração da rede da Secretaria do Tesouro Nacional
 > - Administração de servidores Active Directory, IAS/NPS, DHCP, DNS, Impressão, Backup, WSUS, Auditoria e Exchange
@@ -126,7 +126,7 @@
 
 ### Thomson Reuters  
 `SRTVS 701 CJ D, Centro Empresarial Brasília, Asa Sul, Brasília-DF - 09/2008 a 05/2010`
-> **Professional Service Group (PSG):**  
+##### **Professional Service Group (PSG):**  
 > - Suporte para infraestrutura de software proprietário nos clientes Banco Central, Banco do Brasil e Secretaria do Tesouro Nacional
 > - Serviços administrativos e de logística
 
