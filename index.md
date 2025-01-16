@@ -12,10 +12,11 @@
 
 ## HABILIDADES
 - **Idiomas:** Inglês `fluente`
-- **Ferramentas de edição:** CorelDraw, Photoshop, Sony Vegas
-- **Linguagens utilizadas:** Batch, C/C++, CSS, HTML, Java, JavaScript, JSON, PHP, PowerShell, Python, Ruby, Shell, SQL, TypeScript, UML, VBScript, XML
-- **Sistemas Operacionais:**
-  - Windows: `(todos desde 95)`
+- **Ferramentas de edição:** `CorelDraw, Photoshop, Sony Vegas`
+- **Linguagens utilizadas efetivamente:** `Batch, C, CSS, HTML, Java, JavaScript, JSON, PHP, PowerShell, Shell, SQL, TypeScript, UML, VBScript e XML`
+- **Demais linguagens estudadas:** `C++, Python, Ruby, Rust e Sass`
+- **Sistemas Operacionais utilizados:**
+  - Windows: `3.11, 95, 98, 2000, ME, XP, Vista, 7, 8, 8.1, 10 e 11`
   - Windows Server: `2003, 2008, 2012, 2016, 2019`
   - Unix: `CentOS, Debian, Kali, Mint, OpenSuse, RedHat, Solaris e Ubuntu`
 - **Técnicas:** 
@@ -26,8 +27,8 @@
 <br>
 
 ## CURSOS E TREINAMENTOS
-- AI Skills / `StartSe - - - 2025 `
-- IA para Todos / `Movimento IA Brasil - 3h - 2024 `
+- AI Skills / `StartSe - 2025`
+- IA para Todos / `Movimento IA Brasil - 3h - 2024`
 - IA Generatica com Microsoft Copilot / `CAIXA - 39h - 2025`
 - Formação UX Design / `Alura - 80h - 2023`
 - Formação Angular / `Alura - 88h - 2023`
@@ -77,39 +78,49 @@
 ## EXPERIÊNCIA PROFISSIONAL
 ### Tribunal Superior Eleitoral (TSE)  
 `SAFS 7 LTs 1/2, Asa Sul, Brasília-DF - Desde 10/2015`
-##### **Seção de Integração, Garantia e Controle de Qualidade de Soluções (SEINT) da Coordenadoria de Sistemas Eleitorais (CSELE):**  
+##### **Seção de Integração, Garantia e Controle de Qualidade de Soluções / Coordenadoria de Sistemas Eleitorais (SEINT/CSELE):**  
 > - Desenvolvedor Java/SpringBoot/Angular
 > - Refatoração de códigos para adequação às recomendações de segurança globais e/ou do SonarQube
-> - Upgrade de versão de frameworks; Melhorias dos sistemas e formas de trabalho em favor à infraestrutura
+> - Atualização de versão de frameworks
+> - Melhorias dos sistemas e formas de trabalho em favor à infraestrutura
 > - Conversão de códigos-fonte entre linguagens
 > - Operações em banco de dados
+> - Desenvolvimento de scripts facilitadores de serviço
+> - Testes em campo
+> - Testes de integração
+> - Projeto de Inteligência Artificial
 
-##### **Seção de Suporte a Aplicações (SESAP) da Coordenadoria de Infraestrutura de TI (COINF):**  
+##### **Seção de Suporte a Aplicações / Coordenadoria de Infraestrutura de TI (SESAP/COINF):**  
 > - Aquisições e fiscalização técnica de contratos
 > - Gerência de máquinas virtuais Windows Server (VMWare)
-> - Administração de Servidores Active Directory, Antivírus, DHCP, DNS, Exchange, File Server, FTP, WSUS
-> - Servidores de aplicação JBoss e TomCat
-> - Servidores web Apache e IIS
-> - Servidores de auditoria Varonis
-> - Servidores de arquivamento Enterprise Vault
-> - Servidores de APM Dynatrace AppMon. Controle de certificados digitais
-> - Desenvolvimento Java do ‘RootEAP’, aplicação informativa e inventariante de instâncias com banco H2, presente em todos os servidores JBoss gerenciados pelo TSE, incluindo instâncias nos 27 TREs, e uso interno de alguns TREs
+> - Administração de servidores Active Directory, Antivírus, DHCP, DNS, Exchange, File Server, FTP, WSUS
+> - Administração de servidores de aplicação JBoss e TomCat
+> - Administração de servidores web Apache e IIS
+> - Administração de servidores de auditoria Varonis
+> - Administração de servidores de arquivamento Enterprise Vault
+> - Administração de servidores de APM Dynatrace AppMon
+> - Controle de certificados digitais
+> - Desenvolvimento Java do ‘RootEAP’, aplicação informativa e inventariante de instâncias JBoss com banco H2, presente em todos os servidores JBoss gerenciados pelo TSE, incluindo instâncias nos 27 TREs, e uso interno de alguns TREs
 > - Participação em projeto PHP/PostgreSQL de gerência de instâncias em associação com o ‘RootEAP’
 > - Desenvolvimento do sistema para substituição do sistema legado de controle de ar-condicionado do TSE
 > - Desenvolvimento de sistema para controle de certificados digitais, seus contratos e empresas
 > - Desenvolvimento de scripts facilitadores de serviço
 > - Substituição eventual da chefia
-> - Repasse de conhecimento para novos servidores.  
+> - Repasse de conhecimento para novos servidores.
+> - Testes em campo  
 
 <br>
 
 ### Tribunal Regional do Trabalho da 10ª Região (TRT10)  
 `SAS 1 BL D, Asa Sul, Brasília-DF - 07/2014 a 10/2015`
 ##### **Coordenadoria de Tecnologia (CDTEC):**  
-> - Administração de servidores e demais ativos de rede e infraestrutura do parque tecnológico das dez localidades que compõem a 10ª região
+> - Administração de servidores e demais ativos de rede/infraestrutura das dez localidades (DF/TO) que compõem a 10ª Região
 > - Desenvolvimento de programas e scripts para automatizar serviços críticos
 > - Planejamento, propostas de aquisição, implantação e teste de equipamentos e programas de infraestrutura
 > - Supervisão e fiscalização técnica das contratações de soluções e da equipe terceirizada
+> - Projeto de implantação do Active Directory ou Samba4 para substituição da solução existente
+> - Atualização,local e remota, de sistemas críticos
+> - Recuperação de desastres relacionados a equipamentos
 
 <br>
 
