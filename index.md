@@ -11,18 +11,18 @@
 <br>
 
 ## HABILIDADES
-- **Idiomas:** Inglês `fluente`
+- **Idiomas:** `Inglês fluente`
 - **Ferramentas de edição:** `CorelDraw, Photoshop, Sony Vegas`
-- **Linguagens utilizadas efetivamente:** `Batch, C, CSS, HTML, Java, JavaScript, JSON, PHP, PowerShell, Shell, SQL, TypeScript, UML, VBScript e XML`
-- **Demais linguagens estudadas:** `C++, Python, Ruby, Rust e Sass`
-- **Sistemas Operacionais utilizados:**
+- **Linguagens já utilizadas:** `Batch, C, CSS, HTML, Java, JavaScript, JSON, Markdown, PHP, PowerShell, Shell, SQL, TypeScript, UML, VBScript, XML e YAML`
+  - **Demais linguagens estudadas:** `C++, Python, Ruby, Rust e Sass`
+- **Sistemas Operacionais já utilizados:**
   - Windows: `3.11, 95, 98, 2000, ME, XP, Vista, 7, 8, 8.1, 10 e 11`
   - Windows Server: `2003, 2008, 2012, 2016, 2019`
   - Unix: `CentOS, Debian, Kali, Mint, OpenSuse, RedHat, Solaris e Ubuntu`
-- **Técnicas:** 
-  - Suporte, montagem, instalação e configuração de computadores
+- **Experiência:**
   - Administração de redes e infraestrutura
   - Desenvolvimento de sistemas e scripts
+  - Suporte, montagem, instalação e configuração de computadores
 
 <br>
 
