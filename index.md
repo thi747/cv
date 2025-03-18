@@ -88,17 +88,19 @@
 > - Desenvolvimento de scripts facilitadores de serviço
 > - Testes em campo
 > - Testes de integração
-> - Projeto de Inteligência Artificial
+> - Participação como apoio técnico em Testes Públicos de Segurança (TPS)
+> - Projeto piloto funcional de chat com Inteligência Artificial, em docker, para auxiliar/responder dúvidas dos usuários acerca dos sistemas da seção (expansível), a fim de aliviar a quantidade de demandas de suporte da seção
 
 ##### **Seção de Suporte a Aplicações / Coordenadoria de Infraestrutura de TI (SESAP/COINF):**  
 > - Aquisições e fiscalização técnica de contratos
 > - Gerência de máquinas virtuais Windows Server (VMWare)
-> - Administração de servidores Active Directory, Antivírus, DHCP, DNS, Exchange, File Server, FTP, WSUS
+> - Administração de servidores de serviços Microsoft Active Directory, DHCP, DNS, Exchange, File Server, FTP, WSUS
 > - Administração de servidores de aplicação JBoss e TomCat
 > - Administração de servidores web Apache e IIS
+> - Administração de servidores de Antivírus,
 > - Administração de servidores de auditoria Varonis
 > - Administração de servidores de arquivamento Enterprise Vault
-> - Administração de servidores de APM Dynatrace AppMon
+> - Administração de servidores de APM Dynatrace e Dynatrace AppMon (descontinuado)
 > - Controle de certificados digitais
 > - Desenvolvimento Java do ‘RootEAP’, aplicação informativa e inventariante de instâncias JBoss com banco H2, presente em todos os servidores JBoss gerenciados pelo TSE, incluindo instâncias nos 27 TREs, e uso interno de alguns TREs
 > - Participação em projeto PHP/PostgreSQL de gerência de instâncias em associação com o ‘RootEAP’
