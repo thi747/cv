@@ -4,9 +4,9 @@
 <br>
 
 ## FORMAÇÃO
-- Especialização em Inteligência Artificial e Machine Learning / `Faculdade Anhanguera - 360h - cursando`
+- Especialização em Inteligência Artificial e Machine Learning / `Faculdade Anhanguera - 360h - 2025-2025`
 - Especialização em Gestão de TI na Administração Pública / `IMP de Ensino Superior - 500h - 2013-2014`
-- Bacharelado em Sistemas de Informação / `Faculdades Integradas da UPIS - 2007-2010`
+- Bacharelado em Sistemas de Informação / `Faculdades Integradas da UPIS - 3000h - 2007-2010`
 
 <br>
 
