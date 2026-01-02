@@ -4,6 +4,7 @@
 <br>
 
 ## FORMAÇÃO
+- Especialização em MBA em Arquitetura de Microsserviços / `Faculdade Anhanguera - 360h - 2025-2025`
 - Especialização em Inteligência Artificial e Machine Learning / `Faculdade Anhanguera - 360h - 2025-2025`
 - Especialização em Gestão de TI na Administração Pública / `IMP de Ensino Superior - 500h - 2013-2014`
 - Bacharelado em Sistemas de Informação / `Faculdades Integradas da UPIS - 3000h - 2007-2010`
@@ -27,6 +28,11 @@
 <br>
 
 ## CURSOS E TREINAMENTOS
+- Introdução ao Microsoft Azure Data (DP-900) / `Ka Solution - 8h - 2025`
+- Introdução à Infraestrutura de Nuvem (AZ-900) / `Ka Solution - 8h - 2025`
+- Microsoft 365 Administrator (MS-102) / `Ka Solution - 40h - 2025`
+- Gestão e Governança na Prática: Cobit, ITIL, Scrum e PMBOK / `Ka Solution - 4h - 2025`
+- Trilha BNDES como Agente de Desenvolvimento Sustentável / `UFRJ - 30h - 2025`
 - AI Skills / `StartSe - 2025`
 - IA para Todos / `Movimento IA Brasil - 3h - 2024`
 - IA Generatica com Microsoft Copilot / `CAIXA - 39h - 2025`
