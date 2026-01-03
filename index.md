@@ -4,7 +4,7 @@
 <br>
 
 ## FORMAÇÃO
-- Especialização em MBA em Arquitetura de Microsserviços / `Faculdade Anhanguera - 360h - 2025-2025`
+- Especialização MBA em Arquitetura de Microsserviços / `Faculdade Anhanguera - 360h - 2025-2025`
 - Especialização em Inteligência Artificial e Machine Learning / `Faculdade Anhanguera - 360h - 2025-2025`
 - Especialização em Gestão de TI na Administração Pública / `IMP de Ensino Superior - 500h - 2013-2014`
 - Bacharelado em Sistemas de Informação / `Faculdades Integradas da UPIS - 3000h - 2007-2010`
@@ -13,7 +13,7 @@
 
 ## HABILIDADES
 - **Idiomas:** `Inglês fluente`
-- **Ferramentas de edição:** `CorelDraw, Photoshop, Sony Vegas`
+- **Ferramentas de edição:** `CorelDraw, Adobe Photoshop, Adobe Premiere, Sony Vegas`
 - **Linguagens já utilizadas:** `Batch, C, CSS, HTML, Java, JavaScript, JSON, Markdown, PHP, PowerShell, Shell, SQL, TypeScript, UML, VBScript, XML e YAML`
   - **Demais linguagens estudadas:** `C++, Python, Ruby, Rust e Sass`
 - **Sistemas Operacionais já utilizados:**
@@ -82,9 +82,21 @@
 <br>
 
 ## EXPERIÊNCIA PROFISSIONAL
+
+### Banco Nacional de Desenvolvimento Econômico e Social (BNDES)  
+`Av. República do Chile, 100, Centro, Rio de Janeiro-RJ - Desde 04/2025`
+##### **Gerência de Atendimento ao Usuário (GEAT/DESET/ATI):**  
+> - Administração do Microsoft 365
+> - Suporte N3 ao usuário
+> - Desenvolvimento de scripts de automação
+> - Desenvolvimento de bookmarklets
+> - Administração do Active Directory e Políticas de Grupo
+
+<br>
+
 ### Tribunal Superior Eleitoral (TSE)  
-`SAFS 7 LTs 1/2, Asa Sul, Brasília-DF - Desde 10/2015`
-##### **Seção de Integração, Garantia e Controle de Qualidade de Soluções / Coordenadoria de Sistemas Eleitorais (SEINT/CSELE):**  
+`SAFS 7 LTs 1/2, Asa Sul, Brasília-DF - 10/2015 a 04/2025`
+##### **Seção de Integração, Garantia e Controle de Qualidade de Soluções / Coordenadoria de Sistemas Eleitorais (SEINT/CSELE/STI):**  
 > - Desenvolvedor Java/SpringBoot/Angular
 > - Refatoração de códigos para adequação às recomendações de segurança globais e/ou do SonarQube
 > - Atualização de versão de frameworks
@@ -97,7 +109,7 @@
 > - Participação como apoio técnico em Testes Públicos de Segurança (TPS)
 > - Projeto piloto funcional de chat com Inteligência Artificial, em docker, para auxiliar/responder dúvidas dos usuários acerca dos sistemas da seção (expansível), a fim de aliviar a quantidade de demandas de suporte da seção
 
-##### **Seção de Suporte a Aplicações / Coordenadoria de Infraestrutura de TI (SESAP/COINF):**  
+##### **Seção de Suporte a Aplicações / Coordenadoria de Infraestrutura de TI (SESAP/COINF/STI):**  
 > - Aquisições e fiscalização técnica de contratos
 > - Gerência de máquinas virtuais Windows Server (VMWare)
 > - Administração de servidores de serviços Microsoft Active Directory, DHCP, DNS, Exchange, File Server, FTP, WSUS
@@ -121,7 +133,7 @@
 
 ### Tribunal Regional do Trabalho da 10ª Região (TRT10)  
 `SAS 1 BL D, Asa Sul, Brasília-DF - 07/2014 a 10/2015`
-##### **Coordenadoria de Tecnologia (CDTEC):**  
+##### **Coordenadoria de Tecnologia (CDTEC/SETIN):**  
 > - Administração de servidores e demais ativos de rede/infraestrutura das dez localidades (DF/TO) que compõem a 10ª Região
 > - Desenvolvimento de programas e scripts para automatizar serviços críticos
 > - Planejamento, propostas de aquisição, implantação e teste de equipamentos e programas de infraestrutura
@@ -134,7 +146,7 @@
 
 ### Serviço Federal de Processamento de Dados (SERPRO)  
 `SGAN 601 Módulo G, Asa Norte, Brasília-DF - 10/2010 a 07/2014`
-##### **Superintendência de Produtos e Serviços - Operações - (SUPOP):**  
+##### **Superintendência de Produtos e Serviços - Operações - (SUPOP/OPBSA):**  
 > - Suporte ao usuário
 > - Administração da rede da Secretaria do Tesouro Nacional
 > - Administração de servidores Active Directory, IAS/NPS, DHCP, DNS, Impressão, Backup, WSUS, Auditoria e Exchange
